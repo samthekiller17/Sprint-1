@@ -19,14 +19,14 @@
     align-items: center;
     justify-content: center;
     background: #fff;
-    box-shadow: 0 20px 40px rgba(0, 0, 0, .2);
-    padding: 20px;
+    box-shadow: 0 60px 80px rgba(0, 0, 0, .2);
+    padding: 40px;
     border-radius: 15px;
 }
 
 .box{
-    height: 400px;
-    width: 70px;
+    height: 1000px;
+    width: 80px;
     margin: 10px;
     border-radius: 50px;
     position: relative;
