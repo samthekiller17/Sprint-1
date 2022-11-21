@@ -10,11 +10,11 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    background: linear-gradient(#f9f7f6 50%,#014659 80%);
+    background: linear-gradient(#f9f7f6 50%,#014659 60%);
     padding-bottom: 70px;
 }
 
-.title h2{
+.title h2,h4{
     margin: 10px;
     display: flex;
     justify-content: center;
@@ -97,7 +97,7 @@
 }
 
 .box .content .info p{
-    font-size: 20px;
+    font-size: 14px;
     color: #fff;
     text-transform: uppercase;
 }
