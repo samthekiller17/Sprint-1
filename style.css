@@ -64,7 +64,7 @@
     bottom: 0; left: 0;
     width: 100%;
     padding: 15px 10px;
-    background: linear-gradient(180deg, transparent 0%, #000);
+    background: linear-gradient(200deg, transparent -15%, #000);
     display: flex;
     align-items: center;
 }
@@ -82,7 +82,7 @@
 }
 
 .box .content .info{
-    padding-left: 10px;
+    padding-left: px;
     display: none;
 }
 
